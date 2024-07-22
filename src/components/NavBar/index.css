@@ -1,0 +1,33 @@
+/* Write your code here. */
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #6a59ff;
+  color: white;
+}
+
+.nav-content {
+  display: flex;
+  align-items: center;
+}
+
+.emoji-logo {
+  width: 40px;
+  margin-right: 10px;
+}
+
+.nav-heading {
+  font-size: 24px;
+}
+
+.scores {
+  display: flex;
+  align-items: center;
+}
+
+.score,
+.top-score {
+  margin-left: 20px;
+  font-size: 18px;
+}

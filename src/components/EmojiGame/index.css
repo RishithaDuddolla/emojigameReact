@@ -1,0 +1,20 @@
+/* Write your code here. */
+.emoji-game {
+  text-align: center;
+  background-color: #9796f0;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.emojis-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.emoji-card {
+  margin: 15px;
+  cursor: pointer;
+}
